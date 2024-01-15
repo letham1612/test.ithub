@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T15:40:03.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mtbXvIdaHovENacFb5iF" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T15:42:12.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="YtNM_vV3ccr8Omp7rOSn" version="22.1.18" type="github">
   <diagram name="Trang-1" id="zDqVXPTS4oJpkq755aH0">
     <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,10 +40,10 @@
             <mxPoint x="380" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="afmhLSuOfYRArib_zoC4-12" value="Đường dẫn tới file âm nhạc" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="afmhLSuOfYRArib_zoC4-12" value="Tìm file âm nhạc" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="380" y="210" as="sourcePoint" />
-            <mxPoint x="540" y="210" as="targetPoint" />
+            <mxPoint x="380" y="200" as="sourcePoint" />
+            <mxPoint x="540" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
