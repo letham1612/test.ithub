@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T10:45:55.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Wfd5hDPIA6WngWIPb8-j" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T10:46:41.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5a3m570uXDe73w0CiiAp" version="22.1.18" type="github">
   <diagram name="Trang-1" id="-a8Z6UhnuRNHjZpXbeR-">
     <mxGraphModel dx="1877" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="4mUNGZykfSJRsMWHa9BW-6" value="New customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4mUNGZykfSJRsMWHa9BW-7" value="Register&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-385" y="88" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
