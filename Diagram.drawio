@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T09:27:29.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="7m7RgX6dZJ0KLJQQMXtB" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T10:30:27.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="I0bQjmhBQOAKK88_hGCB" version="22.1.18" type="github">
   <diagram name="Trang-1" id="zD0Yp92a-7xttzoYHKWb">
     <mxGraphModel dx="1877" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="850" y="420" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UPJY3cduDGVZuTllh0rK-9" value="Web User&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="410" width="30" height="60" as="geometry" />
+          <mxGeometry x="-120" y="400" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UPJY3cduDGVZuTllh0rK-10" value="Webnghenhac" style="html=1;whiteSpace=wrap;spacingBottom=700;" vertex="1" parent="1">
           <mxGeometry x="160" y="75" width="530" height="750" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="500" y="470" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UPJY3cduDGVZuTllh0rK-12" value="Client Register" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="630" width="100" height="50" as="geometry" />
+          <mxGeometry x="180" y="680" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UPJY3cduDGVZuTllh0rK-13" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="560" width="100" height="50" as="geometry" />
@@ -69,6 +69,18 @@
         </mxCell>
         <mxCell id="UPJY3cduDGVZuTllh0rK-39" value="Registered&amp;nbsp;&lt;br&gt;User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="255" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UPJY3cduDGVZuTllh0rK-40" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.78;entryY=0.877;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="30" y="560" as="sourcePoint" />
+            <mxPoint x="-76.59999999999991" y="452.6199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPJY3cduDGVZuTllh0rK-41" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.78;entryY=0.877;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="180" y="695" as="sourcePoint" />
+            <mxPoint x="70.00000000000009" y="584.9999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
