@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T06:22:00.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="pf1YST9hXkB8sbAlRjoc" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T06:30:24.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="HmStToUb13LhGjxWRbtv" version="23.1.0" type="github">
   <diagram name="Trang-1" id="n5ErnxJcPvFLJTl6VFTU">
     <mxGraphModel dx="840" dy="1621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,15 +19,48 @@
         <mxCell id="GMpVS7OjQJ1u_IHX_clD-5" value="Tìm người môi giới" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="-840" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="GMpVS7OjQJ1u_IHX_clD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="-740" as="targetPoint" />
+            <mxPoint x="350" y="-435.04" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="500" y="-435.04" />
+              <mxPoint x="500" y="-740.04" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GMpVS7OjQJ1u_IHX_clD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="-660" as="targetPoint" />
+            <mxPoint x="350" y="-420" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="350" y="-380" />
+              <mxPoint x="530" y="-380" />
+              <mxPoint x="530" y="-610" />
+              <mxPoint x="600" y="-610" />
+              <mxPoint x="600" y="-650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GMpVS7OjQJ1u_IHX_clD-6" value="Yêu cầu vay" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="-460" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GMpVS7OjQJ1u_IHX_clD-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="-680" as="targetPoint" />
+            <mxPoint x="160" y="-525" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GMpVS7OjQJ1u_IHX_clD-7" value="Tìm kiếm nhà" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="-540" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GMpVS7OjQJ1u_IHX_clD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GMpVS7OjQJ1u_IHX_clD-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="-680" as="targetPoint" />
+            <mxPoint x="410" y="-730" as="targetPoint" />
+            <mxPoint x="290" y="-665" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="310" y="-730" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GMpVS7OjQJ1u_IHX_clD-8" value="Quản lý hồ sơ cá nhân" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -58,6 +91,17 @@
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="120" y="-660" as="sourcePoint" />
             <mxPoint x="180" y="-540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GMpVS7OjQJ1u_IHX_clD-42" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="310" y="-420" as="sourcePoint" />
+            <mxPoint x="670" y="-480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="-350" />
+              <mxPoint x="670" y="-350" />
+              <mxPoint x="670" y="-480" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
