@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T03:18:31.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ogkcAJW4tN77tPkrj9-N" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T03:27:51.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="hOR5H2CKyldRsOaxi7De" version="23.1.0" type="github">
   <diagram name="Trang-1" id="aVNaDMAqbU-hkqZUCZNo">
     <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="530" y="40" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FO0H6JoeyOANRYrFN8tG-3" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=0;fillColor=none;routingCenterX=-0.5;" parent="1" vertex="1">
-          <mxGeometry x="440" y="40" width="30" height="720" as="geometry" />
+          <mxGeometry x="440" y="40" width="30" height="810" as="geometry" />
         </mxCell>
         <mxCell id="FO0H6JoeyOANRYrFN8tG-5" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="165" y="80" width="30" height="30" as="geometry" />
@@ -30,7 +30,7 @@
             <mxPoint x="180" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FO0H6JoeyOANRYrFN8tG-10" value="Đưa vé xe và thanh toán tiền" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="FO0H6JoeyOANRYrFN8tG-10" value="Đưa thẻ xe và thanh toán tiền" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="130" y="270" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FO0H6JoeyOANRYrFN8tG-11" value="Kiểm tra và xác nhận thanh toán" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
@@ -52,20 +52,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FO0H6JoeyOANRYrFN8tG-18" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+        <mxCell id="FO0H6JoeyOANRYrFN8tG-18" value="Duyệt" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="570" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FO0H6JoeyOANRYrFN8tG-19" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="FO0H6JoeyOANRYrFN8tG-20" edge="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="1050" y="145" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FO0H6JoeyOANRYrFN8tG-20" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="870" y="125" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FO0H6JoeyOANRYrFN8tG-21" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" edge="1">
+        <mxCell id="FO0H6JoeyOANRYrFN8tG-21" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" edge="1" target="oXSrPX6vC3KY2N3g83d7-1">
           <mxGeometry x="-0.7327" y="10" relative="1" as="geometry">
-            <mxPoint x="220" y="620" as="targetPoint" />
+            <mxPoint x="240" y="620" as="targetPoint" />
             <mxPoint x="630" y="520" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="630" y="620" />
@@ -77,6 +69,30 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="667" y="380" as="sourcePoint" />
             <mxPoint x="827" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXSrPX6vC3KY2N3g83d7-1" value="Hướng dẫn khách hàng đến vị trí lấy xe" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="140" y="595" width="155" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oXSrPX6vC3KY2N3g83d7-2" value="Nhận thông báo bị từ chối" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="430" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oXSrPX6vC3KY2N3g83d7-4" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="800" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oXSrPX6vC3KY2N3g83d7-6" value="Lái xe ra khỏi bãi" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="165" y="700" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oXSrPX6vC3KY2N3g83d7-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="oXSrPX6vC3KY2N3g83d7-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="220" y="650" as="sourcePoint" />
+            <mxPoint x="330" y="645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXSrPX6vC3KY2N3g83d7-8" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="217" y="750" as="sourcePoint" />
+            <mxPoint x="217" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
