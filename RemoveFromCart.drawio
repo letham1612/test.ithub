@@ -44,7 +44,7 @@
             <mxPoint x="-45" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="enZPoDcmj9S5zknJX-PJ-1" value="Không được cập nhật" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="4mUNGZykfSJRsMWHa9BW-16" edge="1">
+        <mxCell id="enZPoDcmj9S5zknJX-PJ-1" value="không được xóa" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="4mUNGZykfSJRsMWHa9BW-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="154.5" y="299.5" as="sourcePoint" />
             <mxPoint x="-45" y="299.5" as="targetPoint" />
